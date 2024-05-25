@@ -44,7 +44,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="d487d97f-d71e-439b-8c4c-b726c6982e21" />
+					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="faa7761b-2cd3-4038-8457-faac9f627ebe" />
 					<attribute id="ID" type="FixedString" value="1a5c86b9-775d-4def-93b2-e2fcec86dcfe" />
 					<attribute id="Localized" type="bool" value="False" />
@@ -143,7 +143,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="edc51b23-74e9-fdb3-bc99-dc5a2450025a" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -200,7 +200,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="d633e71b-781c-a913-81ac-562d959a4097" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
