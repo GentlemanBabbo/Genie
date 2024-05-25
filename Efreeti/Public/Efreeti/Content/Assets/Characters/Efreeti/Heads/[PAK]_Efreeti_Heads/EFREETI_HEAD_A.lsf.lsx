@@ -7,10 +7,10 @@
 				<node id="Resource">
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="ID" type="FixedString" value="f4361640-052b-4f5d-895e-b69f64076966" />
+					<attribute id="ID" type="FixedString" value="7cecbab4-9dc8-4a8f-af4d-e1eb8b5a5c3f" />
 					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="Minotaur_M_Head_Base" />
+					<attribute id="Name" type="LSString" value="Efreeti_M_Head_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
@@ -2206,7 +2206,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="373ea85a-8035-4a8b-b224-6ecd40162798" />
+					<attribute id="ID" type="FixedString" value="1bc98906-96f5-4ef5-ad4d-96affd278c65" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Efreeti_M_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
