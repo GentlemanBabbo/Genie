@@ -5,10 +5,10 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="69ed371b-befd-4122-b8a1-01f7341ae165" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="cef76f9c-9237-4fa8-9283-b2466d4a754e" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Genie" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
+					<attribute id="ParentTemplateId" type="FixedString" value="72fc6418-6572-466e-bdc0-d7321006bf96" />
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b7d077e5-e0f1-4e3b-b114-ce5ab67f70bb" /> which models to load
 					<attribute id="Race" type="guid" value="daa6da90-48e8-4f4c-8f94-fc054663d0a3" /> define race as Custom Race
@@ -25,10 +25,10 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="2c74ec6a-f0ef-4cc6-80c8-c4e104703496" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="2a0eacec-ede4-4d42-9a83-4cb9cfe5dc24" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Genie" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0fb9ff18-14a9-43dd-ba80-eb7bb7a60055" /> which models to load
 					<attribute id="Race" type="guid" value="daa6da90-48e8-4f4c-8f94-fc054663d0a3" /> define race as Custom Race
@@ -49,7 +49,7 @@
 					<attribute id="Name" type="LSString" value="Genies_Female_Efreeti_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="69ed371b-befd-4122-b8a1-01f7341ae165" /> inherits from normal CustomRace body
+					<attribute id="ParentTemplateId" type="FixedString" value="cef76f9c-9237-4fa8-9283-b2466d4a754e" /> inherits from normal CustomRace body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="60f6ee3e-850a-4f3a-a89a-8c5028553525" /> which models to load
@@ -75,7 +75,7 @@
 					<attribute id="Name" type="LSString" value="Genies_Male_Efreeti_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="2c74ec6a-f0ef-4cc6-80c8-c4e104703496" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="2a0eacec-ede4-4d42-9a83-4cb9cfe5dc24" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="daf7a909-4ff8-4749-a754-43434e154cca" /> which models to load
