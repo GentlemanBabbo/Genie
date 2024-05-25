@@ -13,7 +13,7 @@
           <attribute id="RaceUUID" type="guid" value="daa6da90-48e8-4f4c-8f94-fc054663d0a3"/>
           <attribute id="RootTemplate" type="guid" value="fd851e11-5bd2-42f0-9b4a-66689982bae2"/>
 					<attribute id="SubRaceUUID" type="guid" value="1453b3e6-d0e8-48d9-8362-1d36ae760879"/>
-          <attribute id="UUID" type="guid" value="5f7ed5da-6df9-47f9-bc82-4e5d7592c359"/>
+          <attribute id="UUID" type="guid" value="3e210e49-444e-4bfe-9548-d4d7d4fd99af"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
 				<node id="CharacterCreationPreset">
@@ -25,7 +25,7 @@
           <attribute id="RaceUUID" type="guid" value="daa6da90-48e8-4f4c-8f94-fc054663d0a3"/>
           <attribute id="RootTemplate" type="guid" value="9c5a5902-dd5a-460c-9671-91325ed66e16"/>
 					<attribute id="SubRaceUUID" type="guid" value="1453b3e6-d0e8-48d9-8362-1d36ae760879"/>
-          <attribute id="UUID" type="guid" value="90bf307c-8c72-4445-ae81-05e33e8ea0b4"/>
+          <attribute id="UUID" type="guid" value="7bbfea0f-b723-44a4-ab19-ae0ecadc2f6f"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
       </children>
