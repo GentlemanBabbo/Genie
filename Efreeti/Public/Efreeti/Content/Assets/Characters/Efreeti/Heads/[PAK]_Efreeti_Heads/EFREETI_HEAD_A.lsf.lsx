@@ -2297,8 +2297,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="0a520a13-62a2-0f0a-44d3-514975827311" />
-							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_A.6Flameball.5" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_A.6Diamond.5" />
 						</node>
 					</children>
 				</node>
