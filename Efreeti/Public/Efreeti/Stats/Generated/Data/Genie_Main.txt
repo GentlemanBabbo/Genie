@@ -9,5 +9,13 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
+new entry "Passive_OnewithFlame"
+type "PassiveData"
+data "DisplayName" "ha0eca0e6gbb03g4304gb861g3696a9e11118;2"
+data "Description" "h58713696g5fd2g4ce9g8c95g064d4138ca9e;2"
+data "Icon" "GenericIcon_DamageType_Fire"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(BURNING); StatusImmunity(MELTING); Resistance(Fire,Resistant)"
+
 <!--------------------- Genie Spells --------------------->
 
