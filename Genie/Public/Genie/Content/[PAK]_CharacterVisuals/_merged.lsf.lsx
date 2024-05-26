@@ -130,7 +130,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
+					<attribute id="BaseVisual" type="FixedString" value="7e4997e0-acf5-4abf-a597-94aafff2eb18" />
 					<attribute id="BodySetVisual" type="FixedString" value="21e879c6-1c85-4dad-be84-1e6f6d15d5fe" />
 					<attribute id="ID" type="FixedString" value="b61052d4-8bad-49ac-80b3-21f42fb38d85" />
 					<attribute id="Name" type="LSString" value="Main_Genie_Male_Efreeti_Player" />
