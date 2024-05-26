@@ -9,6 +9,11 @@
                     <attribute id="Spells" type="LSString" value="Wall_PillarofFlame"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="07100005-3f3a-4ba3-9644-b9ad8b4eb97f"/> the UUID, needs to be unique
                 </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_FlameBlade_Efreeti"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="5e5f1853-ad8a-436d-a0da-204c9bdc8c59"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
