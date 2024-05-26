@@ -2272,7 +2272,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
+							<attribute id="MaterialID" type="FixedString" value="0f1ffaa2-d687-485f-9a57-25d22cb828b7" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.1ELF_MS_NKD_Head_F_Remap_Mesh.0" />
 						</node>
 						<node id="Objects">
@@ -2297,8 +2297,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
-							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Ears_Mesh.5" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.FacialHorns.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -2309,11 +2309,6 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="92b941dc-921d-27a1-5003-089dd532da71" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
-							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.FacialHorns.8" />
 						</node>
 					</children>
 				</node>
