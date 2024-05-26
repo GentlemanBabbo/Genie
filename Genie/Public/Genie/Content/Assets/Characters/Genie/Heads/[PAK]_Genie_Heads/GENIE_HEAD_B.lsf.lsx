@@ -2277,42 +2277,42 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Mouth_Interior_A_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Eyelashes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Eyeshadow_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Ears_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="f26a7604-c2ff-cc1a-403f-98ff0719aeda" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Eyes_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="92b941dc-921d-27a1-5003-089dd532da71" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="0a520a13-62a2-0f0a-44d3-514975827311" />
+							<attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.FacialHorns.8" />
 						</node>
 					</children>
