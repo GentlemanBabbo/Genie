@@ -8,7 +8,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="aad37c54-6fed-4907-931e-62e608bb70d7" />
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="Colorable_Body_Behemoth" />
+					<attribute id="Name" type="LSString" value="Colorable_Body_Genie" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_HMVY_CLEA_GM_Detail_MakeUp.lsf" />
 					<children>						
 						<node id="ScalarParameters">
@@ -7792,24 +7792,36 @@
 							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>					
-						<node id="AnimationWaterfall">
+						<node id="AnimationWaterfall"> Orc Animations UUID
 							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />
 						</node>
 						<node id="AnimationWaterfall"> Illithid Animation UUID
 							<attribute id="Object" type="FixedString" value="2ccd047d-a61c-4a70-aa69-e4c0e39aa30e" />
 						</node>						
 						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="3c5ac745-11bb-4489-a636-ef21e3e4f424" />
+						</node>
+						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="da29fce1-056a-4f86-b110-d61679c21238" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="9105e42a-f783-0b19-8d2a-b983ad8e5d9c" />
+							<attribute id="Object" type="FixedString" value="2a28e47a-9981-df20-3845-5e83bd883110" />
 						</node>
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="0400cd53-4ec6-b894-c90a-b52d8c4119f7" />
+							<attribute id="Object" type="FixedString" value="45291227-c786-9570-fe5f-d4a9e2640390" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="125eb6fc-c0e5-e45e-bf1a-4bbb04be1ee0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e3d75482-3a85-f8c7-467d-8975f0fc0883" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="8405f6a4-e695-c33a-d482-a4d9a472599e" />
-						</node>			
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="324bfb20-54e4-01c5-8a11-849c3352a6a3" />
+						</node>					
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 					</children>
