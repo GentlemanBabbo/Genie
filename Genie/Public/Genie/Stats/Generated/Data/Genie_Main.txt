@@ -19,6 +19,13 @@ data "Icon" "GenericIcon_DamageType_Fire"
 data "Properties" "Highlighted"
 data "Boosts" "StatusImmunity(BURNING); StatusImmunity(MELTING); Resistance(Fire,Resistant)"
 
+new entry "EmberPointUnlocked"
+type "PassiveData"
+data "DisplayName" "hccf2040cgdeb7g4e9agb262g343168a7279e;1"
+data "Description" "h5da078cfg5a22g462bg955dg17fb41c71085;1"
+data "Icon" "PassiveFeature_MartialAdept"
+data "Boosts" "ActionResource(EmberPoint,1,0)
+
 <!--------------------- Genie Spells --------------------->
 
 <!--------------------- Efreeti Spells --------------------->
