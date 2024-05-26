@@ -369,6 +369,64 @@
 			</children>
 		</node>
 	</region>
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="1bd328e5-d2f8-48e0-b848-e81a6cde003a" />
+					<attribute id="Name" type="LSString" value="EfreetiBody_GM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_GM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="EfreetiBody_GM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="3240bdd4-a517-40d1-ae1a-bfd3312c06b2" />
+					<attribute id="Name" type="LSString" value="EfreetiBody_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="EfreetiBody_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="79f1ae36-154b-4b4a-b6a5-21e8fdbfb6c6" />
+					<attribute id="Name" type="LSString" value="EfreetiBody_CLEA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_CLEA.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="EfreetiBody_CLEA" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="b00b1978-09fd-4409-b17c-7d37b4a0fec7" />
+					<attribute id="Name" type="LSString" value="EfreetiBody_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="EfreetiBody_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="4096" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
+				</node>
+			</children>
+		</node>
+	</region>
 	<region id="AnimationSetBank">
 		<node id="AnimationSetBank">
 			<children>
@@ -7610,64 +7668,6 @@
 							</children>
 						</node>
 					</children>
-				</node>
-			</children>
-		</node>
-	</region>
-	<region id="TextureBank">
-		<node id="TextureBank">
-			<children>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="1bd328e5-d2f8-48e0-b848-e81a6cde003a" />
-					<attribute id="Name" type="LSString" value="EfreetiBody_GM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_GM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="EfreetiBody_GM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="3240bdd4-a517-40d1-ae1a-bfd3312c06b2" />
-					<attribute id="Name" type="LSString" value="EfreetiBody_HMVY" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_HMVY.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="EfreetiBody_HMVY" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="79f1ae36-154b-4b4a-b6a5-21e8fdbfb6c6" />
-					<attribute id="Name" type="LSString" value="EfreetiBody_CLEA" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_CLEA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="EfreetiBody_CLEA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="b00b1978-09fd-4409-b17c-7d37b4a0fec7" />
-					<attribute id="Name" type="LSString" value="EfreetiBody_NM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Genie/[PAK]_Genie_Body/Genie_Body/EfreetiBody_NM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="EfreetiBody_NM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="4096" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209018" />
 				</node>
 			</children>
 		</node>
