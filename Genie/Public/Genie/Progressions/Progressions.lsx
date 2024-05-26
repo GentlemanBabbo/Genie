@@ -27,7 +27,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,4,0)" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Passive_OnewithFlame" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(07100005-3f3a-4ba3-9644-b9ad8b4eb97f,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -37,12 +37,52 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="AddSpells(5e5f1853-ad8a-436d-a0da-204c9bdc8c59,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="b7be5cc2-4545-49f0-913f-bd8dec7e6443" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="66d1b37b-9097-4fb5-8181-dff4b0935c51" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="7" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="a29fe111-181f-4769-8e7d-95b44d2664f9" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="9" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="a569eeac-f25b-4c05-8d5b-1357ea5e819e" />  this one must be unique
+          </node>
+        <node id="Progression">
+                  <attribute id="Level" type="uint8" value="11" /> which level the progression is for
+                  <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
+                  <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
+                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+                  <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
+                  <attribute id="UUID" type="guid" value="64aba8d8-b66c-4912-927b-0233b23a5be6" />  this one must be unique
           </node>
       </children>
     </node>
