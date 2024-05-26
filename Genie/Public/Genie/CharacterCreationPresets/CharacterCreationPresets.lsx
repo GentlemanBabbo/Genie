@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+          <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
+          <attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="895b69bf-e88b-42df-aadb-96b52ea9b919"/> roottemplates 
+					<attribute id="SubRaceUUID" type="guid" value="52ef2231-1a2f-4873-b2d8-12dd785062f6"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="2a7f531c-0c68-4b16-9d89-2d7e87f60ee6"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="217498c8-2249-47a6-a57e-41c8374100c8"/>
+					<attribute id="SubRaceUUID" type="guid" value="52ef2231-1a2f-4873-b2d8-12dd785062f6"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="42df84db-dbfe-4af3-83dd-f2e429708a9f"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="b029be2b-7855-453f-9b52-5a6b7721c987"/>
+					<attribute id="SubRaceUUID" type="guid" value="52ef2231-1a2f-4873-b2d8-12dd785062f6"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="10397889-c457-46a2-8294-6d01e795a154"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/> base Custom Main race
+          <attribute id="RootTemplate" type="guid" value="635892ab-a0bb-4040-8c00-ed031df10b0d"/>
+					<attribute id="SubRaceUUID" type="guid" value="52ef2231-1a2f-4873-b2d8-12dd785062f6"/>  your subrace uuid
+          <attribute id="UUID" type="guid" value="b5f71ceb-26cc-4a46-930c-4223f375784f"/> must be unique
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
