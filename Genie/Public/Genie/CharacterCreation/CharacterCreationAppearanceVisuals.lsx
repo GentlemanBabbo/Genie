@@ -52,6 +52,15 @@
 		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>  <!-- male Strong -->
                     			<attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/>
 		                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+		                    <attribute id="UUID" type="guid" value="0a37d51b-ac76-4690-a18c-ecca52a97e92"/>
+		                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+		                </node>
+				<node id="CharacterCreationAppearanceVisual">
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="0"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>  <!-- male Strong -->
+                    			<attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/>
+		                    <attribute id="SlotName" type="FixedString" value="Horns"/>
 		                    <attribute id="UUID" type="guid" value="502cd359-4b2d-42fb-bf35-b33117a84bf2"/>
 		                    <attribute id="VisualResource" type="guid" value="9e9ed9d1-e432-4444-b888-5ecdcd3a1204"/>
 		                </node>
