@@ -149,6 +149,7 @@
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="cd9e3ae8-dcc5-4237-982c-47961ba20bc9" /> which models to load
+					<attribute id="Stats" type="FixedString" value="Playable_MS_Efreeti" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="Race" type="guid" value="52ef2231-1a2f-4873-b2d8-12dd785062f6" /> define race as Custom Race
 					<children>
