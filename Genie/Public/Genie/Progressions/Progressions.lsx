@@ -9,7 +9,7 @@
                   <attribute id="Name" type="LSString" value="Genie" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Genie_Passives" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(14228f71-4ff2-4d82-9264-4cd8003c5e37,2)" />see below for explanation
+                  <attribute id="Selectors" type="LSString" value="AddSpells(9e68380c-89bc-4b87-8971-82f671e2e665,,,,AlwaysPrepared);SelectSkills(14228f71-4ff2-4d82-9264-4cd8003c5e37,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="921daee6-cbc8-4c28-b3a3-ba66e492d9b5" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="5b7fff17-0bf8-4fcd-9b0f-46c182df18eb" />  this one must be unique
@@ -59,7 +59,7 @@
                   <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(7853ea8c-ee23-4a2c-ab7f-9378d66b8049,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="a29fe111-181f-4769-8e7d-95b44d2664f9" />  this one must be unique
@@ -69,7 +69,7 @@
                   <attribute id="Name" type="LSString" value="Efreeti" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="ActionResource(EmberPoint,1,0)" /> 
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> you can add spells here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(63cfee8e-595b-43ff-a2c5-ee7f295cc3b1,,,,AlwaysPrepared)" /> you can add spells here
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="6f76f344-9a0a-415c-9dcc-879df4fbb37e" /> Always use this one for races.lsx, says this progression node is for Sub Race
                   <attribute id="UUID" type="guid" value="a569eeac-f25b-4c05-8d5b-1357ea5e819e" />  this one must be unique
