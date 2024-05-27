@@ -2469,6 +2469,11 @@
 							<attribute id="MaterialID" type="FixedString" value="92b941dc-921d-27a1-5003-089dd532da71" />
 							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9325e556-e410-44dd-bf04-1f298db40e9b" />
+							<attribute id="ObjectID" type="FixedString" value="Efreeti_M_Head_B.HRC_M_NKD_Head_A_GenieMarks_Mesh.8" />
+						</node>
 					</children>
 				</node>
 			</children>
