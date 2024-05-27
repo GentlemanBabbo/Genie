@@ -4,7 +4,7 @@
 		<region id="MaterialBank">
 		<node id="MaterialBank">
 			<children>
-			<node id="Resource"> Phoenix Djinni Body
+			<node id="Resource"> Djinni Body
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="9325e556-e410-44dd-bf04-1f298db40e9b" />
 					<attribute id="MaterialType" type="uint8" value="0" />
