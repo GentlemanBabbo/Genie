@@ -9,6 +9,13 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989);Proficiency(Scimitars)"
 
+new entry "Playable_MS_Efreeti"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+data "StepsType" "Bare"
+
 <!--------------------- Efreeti Passives --------------------->
 
 new entry "Passive_OnewithFlame"
