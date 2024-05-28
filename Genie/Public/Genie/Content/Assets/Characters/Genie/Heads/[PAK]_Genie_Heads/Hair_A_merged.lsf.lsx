@@ -8,11 +8,10 @@
                         <attribute id="AttachBone" type="FixedString" value="" />
                         <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                         <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-                        <attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
-                        <attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
-                        <attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+			<attribute id="BoundsMax" type="fvec3" value="0.116603665 2.221769 0.13287266" />
+			<attribute id="BoundsMin" type="fvec3" value="-0.11731623 1.7970554 -0.1336706" />
                         <attribute id="ClothColliderResourceID" type="FixedString" value="" />
-                        <attribute id="HairPresetResourceId" type="FixedString" value="" />
+                        <attribute id="HairPresetResourceId" type="FixedString" value="c10ea249-f25f-facf-ebe3-80fb751f6a31" />
                         <!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
                         <attribute id="HairType" type="uint8" value="0" />
                         <attribute id="ID" type="FixedString" value="886e6225-6b50-481a-9f4a-a12449a8269b" />
