@@ -43,7 +43,7 @@
                             <node id="Base" />
                             <node id="Objects">
                                 <attribute id="LOD" type="uint8" value="0" />
-                                <attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+                                <attribute id="MaterialID" type="FixedString" value="c9ed1c60-fd63-7589-1aca-d8646721b531" />
                                 <!-- ^ Use from a hair material you like. -->
                                 <attribute id="ObjectID" type="FixedString" value="Efreeti_M_Hair_A.AkumaHair.0" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
@@ -52,7 +52,7 @@
                             </node>
                             <node id="Objects">
                                 <attribute id="LOD" type="uint8" value="0" />
-                                <attribute id="MaterialID" type="FixedString" value="c47fba68-dbd5-a405-6535-2155ff08ba6f" />
+                                <attribute id="MaterialID" type="FixedString" value="c9ed1c60-fd63-7589-1aca-d8646721b531" />
                                 <!-- ^ Use from a hair material you like. -->
                                 <attribute id="ObjectID" type="FixedString" value="Efreeti_M_Hair_A.AkumaHair.1" />
                                 <!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
