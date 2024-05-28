@@ -32,10 +32,22 @@
 				</node>
 		<!--Female Efreeti Heads-->
 
+
+		<!--Hair-->
+
+				<node id="CharacterCreationAppearanceVisual">
+		                    <attribute id="BodyShape" type="uint8" value="1"/>
+		                    <attribute id="BodyType" type="uint8" value="0"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>  <!-- male Strong -->
+                    		    <attribute id="RaceUUID" type="guid" value="e535b8a5-d553-4351-94ae-ff5bb072e958"/>
+		                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+		                    <attribute id="UUID" type="guid" value="cadf39e3-bb72-42d7-bea5-e44aee0a6de0"/>
+		                    <attribute id="VisualResource" type="guid" value="886e6225-6b50-481a-9f4a-a12449a8269b"/>
+		                </node>
+
 		<!--Beards-->
 				<node id="CharacterCreationAppearanceVisual"> Efreeti - A
 					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
-					for Dragonborn and Half-Orcs even though they use Tall Muscular bodyshape this value needs to be 0
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			                <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
 					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
@@ -43,7 +55,6 @@
 					<attribute id="SlotName" type="FixedString" value="Beard"/>
 					<attribute id="UUID" type="guid" value="c44644a5-9e58-456c-b237-3ed7b2eefe55"/> <!--Unique UUID -->
 					<attribute id="VisualResource" type="guid" value="061bf3d6-10a4-7772-7bd2-f0008850a73f"/>
-					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Horns-->
 				<node id="CharacterCreationAppearanceVisual">
