@@ -11,7 +11,7 @@
 			<attribute id="BoundsMax" type="fvec3" value="0.116603665 2.221769 0.13287266" />
 			<attribute id="BoundsMin" type="fvec3" value="-0.11731623 1.7970554 -0.1336706" />
                         <attribute id="ClothColliderResourceID" type="FixedString" value="" />
-                        <attribute id="HairPresetResourceId" type="FixedString" value="c10ea249-f25f-facf-ebe3-80fb751f6a31" />
+                        <attribute id="HairPresetResourceId" type="FixedString" value="" />
                         <!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
                         <attribute id="HairType" type="uint8" value="0" />
                         <attribute id="ID" type="FixedString" value="886e6225-6b50-481a-9f4a-a12449a8269b" />
@@ -21,7 +21,7 @@
                         <attribute id="MaterialType" type="uint8" value="0" />
                         <attribute id="Name" type="LSString" value="Efreeti_MS_Hair_A" />
                         <!-- ^ Name of your GR2. -->
-                        <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+                        <attribute id="NeedsSkeletonRemap" type="bool" value="True" />
                         <!-- ^ Change to false if not auto-snap. -->
                         <attribute id="Radius" type="float" value="0.2880241" />
                         <attribute id="ScalpMaterialId" type="FixedString" value="" />
